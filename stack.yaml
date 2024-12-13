@@ -1,0 +1,10 @@
+resolver: lts-23.0
+packages:
+- .
+extra-deps:
+- hledger-lib-1.41
+- hledger-1.41
+- base-compat-0.14.1@sha256:d01078dff437dd547942a6f12389f1cc874328c1d61c0b795b9a6b822f133c96,7592
+- extra-1.7.16
+- time-1.12.2
+- data-default-0.8.0.0
